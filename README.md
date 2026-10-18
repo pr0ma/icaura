@@ -63,7 +63,7 @@
 | 26 | 0x001A | Battery power | 1W | / |
 
 ---
-Повний список регістрів та їх призначення https://github.com/pr0ma/icaura#:~:text=INV%2DModbusV1.20.xlsx
+Повний список регістрів та їх призначення https://github.com/pr0ma/icaura/blob/main/INV-ModbusV1.20.xlsx
 
 ### 🛠️ Що потрібно для роботи ICAura?
 
