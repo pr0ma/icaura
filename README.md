@@ -68,7 +68,9 @@
 ### 🛠️ Що потрібно для роботи ICAura?
 
 1. **Плата розробника:** ESP32-WROOM-32.
-2. **Конвертер сигналів:** RS232 <-> TTL (модуль MAX3232).
+<img width="649" height="449" alt="ESP32" src="https://github.com/user-attachments/assets/9368f13e-2a53-436d-a442-533e03df37bd" />
+
+3. **Конвертер сигналів:** RS232 <-> TTL (модуль MAX3232).
 <img width="500" height="500" alt="RS232-MAX3232" src="https://github.com/user-attachments/assets/91059187-88ff-44aa-8612-5683449ca689" />
 
 4. **Кабель:** USB Type-A (Male) із виведеними чотирма проводами (або відповідний роз'єм для підключення до порту інвертора).
