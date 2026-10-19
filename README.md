@@ -6,7 +6,7 @@
 
 Оновлення https://github.com/pr0ma/icaura/raw/refs/heads/main/UpdateICAura_1_7_5.bin
 
-Оновлення краще робити через інтерфейс ICAura.
+Оновлення краще завантажувати через інтерфейс ICAura. 
 
 Журнал оновлень https://github.com/pr0ma/icaura/blob/main/changelog.txt
 
