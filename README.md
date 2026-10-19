@@ -92,8 +92,8 @@
 
 * **VCC (MAX3232)** -> пін `3.3V` ESP32.
 * **GND (MAX3232)** -> `GND` ESP32.
-* **TXD (TTL) MAX3232** -> `RX2` (GPIO 16) ESP32.
-* **RXD (TTL) MAX3232** -> `TX2` (GPIO 17) ESP32.
+* **TXD (TTL) MAX3232** -> `TX2` (GPIO 17) ESP32.
+* **RXD (TTL) MAX3232** -> `RX2` (GPIO 16) ESP32.
 
 #### Зведена таблиця комутації:
 
@@ -103,8 +103,8 @@
 | **Pin 2** | RS232 RX | TXD (RS232 side) | — |
 | **Pin 3** | RS232 TX | RXD (RS232 side) | — |
 | **Pin 4** | GND | GND (RS232 side) | `GND` |
-| — | TTL TX/RX | TXD (TTL side) | `GPIO 16` (RX2) |
-| — | TTL TX/RX | RXD (TTL side) | `GPIO 17` (TX2) |
+| — | TTL TX/RX | TXD (TTL side) | `GPIO 17` (TX2) |
+| — | TTL TX/RX | RXD (TTL side) | `GPIO 16` (RX2) |
 | — | 3.3V Power | VCC (TTL side) | `3V3` |
 
 ---
