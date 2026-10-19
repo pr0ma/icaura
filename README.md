@@ -1,5 +1,12 @@
 # ICAura: локальна, безкоштовна система моніторингу та керування інверторами
 
+Прямі посилання на прошивку
+
+Перше встановлення https://github.com/pr0ma/icaura/raw/refs/heads/main/SetupICAura_1_7_5.bin
+Оновлення https://github.com/pr0ma/icaura/raw/refs/heads/main/UpdateICAura_1_7_5.bin
+
+Журнал оновлень https://github.com/pr0ma/icaura/blob/main/changelog.txt
+
 ### 🔌 З якими інверторами працює ICAura?
 
 Сучасні моделі JSDSolar та їх клони, які використовують протокол **Modbus** для спілкування з логером.
