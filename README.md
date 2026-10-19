@@ -39,39 +39,18 @@
 
 Локальний моніторинг та керування налаштуваннями інвертора **без хмарних підключень та китайських серверів**. Вся інформація залишається виключно у межах вашої локальної Wi-Fi мережі.
 
-Ви отримуєте прямий доступ на читання та запис усіх регістрів інвертора, включно із захищеними правами адміністратора (наприклад, регістри калібрування вимірювальних модулів):
-
-| Decimal | Hex | Object Name | Unit | Inverter Reading Address (H) |
-| --- | --- | --- | --- | --- |
-| 1 | 0x0001 | Mains voltage | 0.1V | 01B0 |
-| 2 | 0x0002 | Mains current | 0.01A | 01B1 |
-| 3 | 0x0003 | Mains power | 1W | / |
-| 4 | 0x0004 | Mains leakage current | 0.01A | / |
-| 5 | 0x0005 | Generator voltage | 0.1V | 2000 |
-| 6 | 0x0006 | Generator current | 0.01A | 2001 |
-| 7 | 0x0007 | Generator power | 1W | / |
-| 8 | 0x0008 | Inverter voltage | 0.1V | 02AA |
-| 9 | 0x0009 | Inverter DC component | 1mV | 02AD |
-| 10 | 0x000A | Inverter current | 0.01A | 02AC |
-| 11 | 0x000B | Inverter small current | 0.01A | / |
-| 12 | 0x000C | Low power inverter | 1W | / |
-| 13 | 0x000D | Inverter power | 1W | / |
-| 14 | 0x000E | Output voltage | 0.1V | 0218 |
-| 15 | 0x000F | Output current | 0.01A | 021A |
-| 16 | 0x0010 | Output power | 1W | 021D |
-| 17 | 0x0011 | Photovoltaic voltage 1 | 0.1V | 0270 |
-| 18 | 0x0012 | Photovoltaic 1 current | 0.01A | 0271 |
-| 19 | 0x0013 | Photovoltaic power | 1W | 0272 |
-| 20 | 0x0014 | Photovoltaic 2 voltage | 0.1V | / |
-| 21 | 0x0015 | Photovoltaic 2 current | 0.01A | / |
-| 22 | 0x0016 | Photovoltaic 2 power | 1W | / |
-| 23 | 0x0017 | Bus voltage | 0.1V | / |
-| 24 | 0x0018 | Battery voltage | 0.1V | 0155 |
-| 25 | 0x0019 | Battery current | 0.1A | 0157 |
-| 26 | 0x001A | Battery power | 1W | / |
-
+Ви отримуєте прямий доступ на читання та запис усіх регістрів інвертора, включно із захищеними правами адміністратора (наприклад, регістри калібрування вимірювальних модулів).
 ---
 Повний список регістрів та їх призначення https://github.com/pr0ma/icaura/blob/main/INV-ModbusV1.20.xlsx
+
+### 🚀 Патчі
+
+Важливі оновлення регістрів в автоматичному режимі. 
+
+На цей момент реалізовано:
+
+* Патч калібровки датчику струму PV1 *
+
 
 ### 🛠️ Що потрібно для роботи ICAura?
 
