@@ -1,5 +1,7 @@
 # ICAura: локальна, безкоштовна система моніторингу та керування інверторами
 
+<img width="1080" height="2400" alt="ICAura1_8_1" src="https://github.com/user-attachments/assets/81d7dcaa-7bb3-4555-9b80-6fdc199403ba" />
+
 Прямі посилання на поточну прошивку
 
 Перше встановлення https://github.com/pr0ma/icaura/raw/refs/heads/main/SetupICAura_1_8_1.bin
