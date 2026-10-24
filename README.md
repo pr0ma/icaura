@@ -180,4 +180,6 @@
 
   **Якщо хтось із YouTube-блогерів запише оглядове відео на цю тему — спільнота щиро скаже вам дякую! :)**
 
+  Обговорення на форумі https://greenpowertalk.tech/threads/icaura-lokalna-bezkoshtovna-sistema-monitoringu-ta-keruvannja-invertorami.2333/
+
 
