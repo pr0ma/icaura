@@ -47,7 +47,7 @@
 
 Повний список регістрів та їх призначення https://github.com/pr0ma/icaura/blob/main/INV-ModbusV1.20.xlsx 
 
-Підтримка MQTT - інформацію може отримувати будь який "розумний" будинок HA, OpenHAB і т.д.
+Підтримка MQTT - інформацію може отримувати будь який "розумний" будинок HA, OpenHAB і т.д. Інструкція по роботі з MQTT https://github.com/pr0ma/icaura/raw/refs/heads/main/mqtt.txt
 
 
 ### 🚀 Патчі
