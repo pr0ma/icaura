@@ -66,7 +66,7 @@
 
 ### 🛠️ Що потрібно для роботи ICAura?
 
-1. **Плата розробника:** ESP32-WROOM-32. Або будь яка інша модель ESP32 яка підтримує Serial2 на пінах D16 D17.
+1. **Плата розробника:** ESP32-WROOM-32. Або будь яка інша модель ESP32 яка підтримує Serial2 RX=GPIO16 і TX=GPIO17.
 <img width="649" height="449" alt="ESP32" src="https://github.com/user-attachments/assets/9368f13e-2a53-436d-a442-533e03df37bd" />
 
 3. **Конвертер сигналів:** RS232 <-> TTL (модуль MAX3232).
