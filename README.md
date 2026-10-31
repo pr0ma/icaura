@@ -56,7 +56,7 @@ https://github.com/pr0ma/icaura/raw/refs/heads/main/mqtt.txt
 
 Поточна версія https://github.com/pr0ma/icaura/raw/refs/heads/main/ICAuraMQTT.apk
 
-Опис https://github.com/pr0ma/icaura/raw/refs/heads/main/icaura_mqtt.md
+Опис https://github.com/pr0ma/icaura/blob/main/icaura_mqtt.md
 
 
 ### 🚀 Патчі
