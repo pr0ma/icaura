@@ -193,4 +193,6 @@ https://github.com/pr0ma/icaura/raw/refs/heads/main/mqtt.txt
 
   Обговорення на форумі https://greenpowertalk.tech/threads/icaura-lokalna-bezkoshtovna-sistema-monitoringu-ta-keruvannja-invertorami.2333/
 
+Група в Телеграм https://t.me/icaura_group
+
 
