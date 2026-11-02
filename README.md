@@ -20,7 +20,7 @@
 **Підтримувані моделі:**
 
 * JSDSolar J12000HC-48 (12 kW, 48V)
-* Anern FGI-S5000 (5 kW, 24V) — *перевірено на практиці*
+* Anern FGI-S5000 (5 kW, 24V) 
 * Anern FGI-S6500 (6.5 kW, 48V)
 * ECG Solax ECG-HVM6.5KP-48V
 * та інші сумісні пристрої.
@@ -28,6 +28,7 @@
 **Перевірені в роботі на цей час:**
 
 * Anern FGI-S5000 (5 kW, 24V)
+* POWLAND ISolar-SMS-5KW-P-24V 
   
 💡 *Якщо нижня частина вашого інвертора виглядає схожим чином, скоріш за все, він сумісний з ICAura.*
 <img width="887" height="289" alt="JSDSolar clone bottom" src="https://github.com/user-attachments/assets/704fab12-1536-429e-a669-387edbf5adac" />
