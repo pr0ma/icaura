@@ -5,9 +5,9 @@
 
 Прямі посилання на поточну прошивку
 
-Перше встановлення https://github.com/pr0ma/icaura/raw/refs/heads/main/SetupICAura_2_3_9.bin
+Перше встановлення https://github.com/pr0ma/icaura/raw/refs/heads/main/SetupICAura_2_4_0.bin
 
-Оновлення https://github.com/pr0ma/icaura/raw/refs/heads/main/UpdateICAura_2_3_9.bin
+Оновлення https://github.com/pr0ma/icaura/raw/refs/heads/main/UpdateICAura_2_4_0.bin
 
 Оновлення краще завантажувати через інтерфейс ICAura. 
 
