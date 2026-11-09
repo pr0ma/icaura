@@ -118,6 +118,8 @@ https://github.com/pr0ma/icaura/raw/refs/heads/main/mqtt.txt
 | — | TTL TX/RX | RXD (TTL side) | `GPIO 16` (RX2) |
 | — | 3.3V Power | VCC (TTL side) | `3V3` |
 
+<img width="1240" height="880" alt="anern_wiring" src="https://github.com/user-attachments/assets/7fdd9382-b0ac-4721-a45a-da272d62f9cb" />
+
 ---
 
 ### 📥 Прошивка ESP32
