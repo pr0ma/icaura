@@ -5,15 +5,15 @@
 
 Прямі посилання на поточну прошивку
 
-Перше встановлення https://github.com/pr0ma/icaura/raw/refs/heads/main/SetupICAura_2_4_6.bin
+Перше встановлення https://github.com/pr0ma/icaura/raw/refs/heads/main/SetupICAura_2_4_9.bin
 
-Оновлення https://github.com/pr0ma/icaura/raw/refs/heads/main/UpdateICAura_2_4_6.bin
+Оновлення https://github.com/pr0ma/icaura/raw/refs/heads/main/UpdateICAura_2_4_9.bin
 
 **Для ESP32-S3 Zero** (окрема збірка):
 
-Перше встановлення https://github.com/pr0ma/icaura/raw/refs/heads/main/SetupICAura_S3_2_4_6.bin
+Перше встановлення https://github.com/pr0ma/icaura/raw/refs/heads/main/SetupICAura_S3_2_4_9.bin
 
-Оновлення https://github.com/pr0ma/icaura/raw/refs/heads/main/UpdateICAura_S3_2_4_6.bin
+Оновлення https://github.com/pr0ma/icaura/raw/refs/heads/main/UpdateICAura_S3_2_4_9.bin
 
 Оновлення краще завантажувати через інтерфейс ICAura. 
 
