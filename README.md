@@ -38,6 +38,8 @@
 * Anern FGI-S6500 (6.5 kW, 48V)
 * Aruna FGI-S6500 (6.5 kW, 48V)
 * Aruna FGI-S5000 (5 kW, 24V)
+* POWGROW ISolar-SMS-5KW-24V-WIFI
+* POWGROW ISolar-SMS-6.5KW-48V-WIFI
   
 💡 *Якщо нижня частина вашого інвертора виглядає схожим чином, скоріш за все, він сумісний з ICAura.*
 <img width="887" height="289" alt="JSDSolar clone bottom" src="https://github.com/user-attachments/assets/704fab12-1536-429e-a669-387edbf5adac" />
