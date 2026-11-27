@@ -5,15 +5,15 @@
 
 Прямі посилання на поточну прошивку
 
-Перше встановлення https://github.com/pr0ma/icaura/raw/refs/heads/main/SetupICAura_2_4_9.bin
+Перше встановлення https://github.com/pr0ma/icaura/raw/refs/heads/main/SetupICAura_2_5_0.bin
 
-Оновлення https://github.com/pr0ma/icaura/raw/refs/heads/main/UpdateICAura_2_4_9.bin
+Оновлення https://github.com/pr0ma/icaura/raw/refs/heads/main/UpdateICAura_2_5_0.bin
 
 **Для ESP32-S3 Zero** (окрема збірка):
 
-Перше встановлення https://github.com/pr0ma/icaura/raw/refs/heads/main/SetupICAura_S3_2_4_9.bin
+Перше встановлення https://github.com/pr0ma/icaura/raw/refs/heads/main/SetupICAura_S3_2_5_0.bin
 
-Оновлення https://github.com/pr0ma/icaura/raw/refs/heads/main/UpdateICAura_S3_2_4_9.bin
+Оновлення https://github.com/pr0ma/icaura/raw/refs/heads/main/UpdateICAura_S3_2_5_0.bin
 
 Оновлення краще завантажувати через інтерфейс ICAura. 
 
@@ -89,6 +89,7 @@ https://github.com/pr0ma/icaura/raw/refs/heads/main/mqtt.txt
 * **Патч калібровки датчику напруги PV1.** Патч виправляє не точність вимірювання напруги що покращує роботу MPPT.   
 * **Патч корекції часу.** Годинник інвертора має велику накопичувальну похибку. Що впливає на показники статистичних даних, та вмикання за розкладом. Патч раз на 10 хвилин перевіряє та порівнює з еталоном, при похибці більше 60 секунд корегує годинник інвертора. 
 * **Графік відключень світла.** Інформація від Укренерго по графік відключень.
+* **Нічний заряд».** Заряд АКБ від мережі за нічним тарифом.
 
 
 ### 🛠️ Що потрібно для роботи ICAura?
