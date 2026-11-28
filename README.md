@@ -66,7 +66,7 @@
 
 Підтримка MQTT - інформацію може отримувати будь який "розумний" будинок HA, OpenHAB і т.д. Інструкція по роботі з MQTT 
 
-https://github.com/pr0ma/icaura/raw/refs/heads/main/mqtt.txt
+https://github.com/pr0ma/icaura/raw/refs/heads/main/MQTT.md
 
 Є можливість використовувати застосунок для віддаленого моніторингу та керування. 
 
